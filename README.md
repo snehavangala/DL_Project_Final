@@ -6,7 +6,7 @@ This Main objective of this Project is to implement Face detection and recogniza
 
 ## INSTALLATION
 
-1.clone the repository.
+1.Clone the repository.
 
 2.Install dependencies.
 
