@@ -7,8 +7,11 @@ This Main objective of this Project is to implement Face detection and recogniza
 ## INSTALLATION
 
 1.clone the repository.
+
 2.Install dependencies.
+
 3.Configure the environment variables.
+
 4.Run the project.
 
 ## USAGE
@@ -23,3 +26,12 @@ Apart from Resnet we also have built a siamese network from scratch with its own
 
 We can also implement this using gradio, which is just an another interface to test our models. 
 
+## Contributing
+
+We welcome contributions!
+
+## Contact
+
+"Kasulanati, Sreenivas" <skasu5@unh.newhaven.edu>; 
+"Shaik, Adil" <ashai45@unh.newhaven.edu>;
+"Vangala, Sneha" <svang16@unh.newhaven.edu>.
